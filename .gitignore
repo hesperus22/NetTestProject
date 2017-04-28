@@ -1,0 +1,5 @@
+/bin-debug
+/.idea
+/packages
+/**/obj
+/**/bin
